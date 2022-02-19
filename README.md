@@ -1,1 +1,1 @@
-# SAMPLE CODE for GMAIL API consumption via Java
+# Team city integration testing branch
